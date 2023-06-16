@@ -26,4 +26,5 @@ jobs:
           categories: '[code-block]'
       - name: Remove Characters
         run: |
+          sed -i 's/```md//g' README.md
           sed -i 's/```//g' README.md
