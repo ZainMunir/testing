@@ -33,13 +33,12 @@ jobs:
           categories: '[code-block]'
       - name: Remove Characters
         run: |
+          git fetch --unshallow || true
+          git config user.email "<YOUR_EMAIL>"
+          git config user.name "<YOUR_USERNAME>"
+          git reset --soft HEAD~1
           sed -i 's/```md//g' README.md
           sed -i 's/```//g' README.md
-      - name: Commit Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Remove specific sequence of characters from file" -a --allow-empty
-          git commit -m "Squash last 2 commits" --no-edit
+          git commit -m "Compiled readme" --no-edit
       - name: Push Changes
         uses: ad-m/github-push-action@master
