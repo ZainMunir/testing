@@ -40,5 +40,4 @@ jobs:
           sed -i 's/```md//g' README.md
           sed -i 's/```//g' README.md
           git commit -m "Compiled readme" --no-edit
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
+          git push -f
