@@ -9,7 +9,13 @@
 <!-- The below code snippet is automatically added from ./files/page1.md -->
 ```md
 This is the contents of this file
-# editing this to force an update
+
+
+## Does any form of titling work
+- or how about lists
+    - like this?
+
+[I'm an inline-style link](https://www.google.com)
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 </details>
