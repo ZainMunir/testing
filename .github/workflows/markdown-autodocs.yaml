@@ -28,3 +28,10 @@ jobs:
         run: |
           sed -i 's/```md//g' README.md
           sed -i 's/```//g' README.md
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Remove specific sequence of characters from file" -a --allow-empty
+      - name: Push Changes
+        uses: ad-m/github-push-action@main
