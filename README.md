@@ -8,3 +8,7 @@
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/page1.md) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
 </details>
+
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/random.js) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
