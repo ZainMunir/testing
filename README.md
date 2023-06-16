@@ -5,10 +5,6 @@
 <details>
 <summary>Task 1</summary>
 
-<!-- Include the content from `files/page1.md` -->
-
-```markdown
-<!-- Include the content from `files/page1.md` -->
-
-```
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/page1) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
 </details>
