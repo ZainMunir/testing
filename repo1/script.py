@@ -13,4 +13,4 @@ file_names = ['q1.md', 'q2.md', 'q3.md', 'q4.md', 'q5.md', 'q6.md', 'q7.md', 'q8
 
 for i in range(len(questions)):
     with open(file_names[i], 'w') as file:
-        file.write(f'<details>\n<summary>{i+1}. {questions[i]}</summary>\n</details>')
+        file.write(f'<details>\n   <summary>\n      <span style="color: blue, font-weight: bold">{i+1}. {questions[i]}</span>\n   </summary>\n\n\n\n</details>')
