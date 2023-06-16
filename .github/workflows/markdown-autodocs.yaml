@@ -10,4 +10,4 @@ jobs:
         uses: bayssmekanique/action-md-concat@v1
         with:
           srcDir: ./files
-          destFile: ./fullDoc.md
+          destFile: ./README.md
