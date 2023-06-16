@@ -34,4 +34,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Remove specific sequence of characters from file" -a --allow-empty
       - name: Push Changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
