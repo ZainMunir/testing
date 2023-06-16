@@ -7,7 +7,7 @@
 
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/page1.md) -->
 <!-- The below code snippet is automatically added from ./files/page1.md -->
-```md
+
 This is the contents of this file
 
 
@@ -16,6 +16,6 @@ This is the contents of this file
     - like this?
 
 [I'm an inline-style link](https://www.google.com)
-```
+
 <!-- MARKDOWN-AUTO-DOCS:END -->
 </details>
