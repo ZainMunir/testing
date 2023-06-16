@@ -10,6 +10,9 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
+      - name: Replace File
+        run: |
+          cp format.md README.md
       - name: Markdown autodocs
         uses: dineshsonachalam/markdown-autodocs@v1.0.4
         with:
