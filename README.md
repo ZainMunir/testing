@@ -10,5 +10,5 @@
 </details>
 
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/random.js) -->
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/script.js) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
