@@ -2,20 +2,54 @@
 
 ## Repository 1
 
-<details>
-<summary>Task 1</summary>
-
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./files/page1.md) -->
-<!-- The below code snippet is automatically added from ./files/page1.md -->
-
-This is the contents of this file
-
-
-## Does any form of titling work
-- or how about lists
-    - like this?
-
-[I'm an inline-style link](https://www.google.com)
-
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q1.md) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
-</details>
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q2.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q3.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q4.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q5.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q6.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q7.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q8.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+---
+
+## Repository 2
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q1.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q2.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q3.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q4.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q5.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q6.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q7.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q8.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
