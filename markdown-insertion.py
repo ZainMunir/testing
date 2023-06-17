@@ -29,5 +29,5 @@ def process_file(file_path):
     with open(file_path, 'w') as output_file:
         output_file.writelines(output_lines)
 
-file_path = 'readme.md'
+file_path = 'README.md'
 process_file(file_path)
