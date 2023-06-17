@@ -1,4 +1,4 @@
-name: markdown-insertion
+name: markdown insertion
 
 on:
   push:
