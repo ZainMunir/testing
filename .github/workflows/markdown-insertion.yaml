@@ -15,8 +15,8 @@ jobs:
       - name: Replace File
         run: |
           cp format.md README.md
-      - name: Set up Python
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v3.1.4
         with:
           python-version: '3.10' 
       - name: update readme
