@@ -1,0 +1,30 @@
+name: markdown-insertion
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: Replace File
+        run: |
+          cp format.md README.md
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9  # Change this to the version of Python you want to use
+      - name: update readme
+        run: python markdown-insertion.py
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Remove specific sequence of characters from file" -a --allow-empty
+      - name: Push Changes
+        uses: ad-m/github-push-action@master

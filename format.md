@@ -2,61 +2,44 @@
 
 ## Repository 1
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q1.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q1.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q2.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q2.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q3.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q3.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q4.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q4.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q5.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q5.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q6.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q6.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q7.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q7.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo1/q8.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo1/q8.md" -->
 
 ---
 
 ## Repository 2
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q1.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q1.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q2.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q2.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q3.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q3.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q4.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q4.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q5.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q5.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q6.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q6.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q7.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="repo2/q7.md" -->
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./repo2/q8.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
-
+<!-- REPLACEMENT src="repo2/q8.md" -->
 
 ---
 ## Contributions
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./contributions.md) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+<!-- REPLACEMENT src="contributions.md" -->
+
