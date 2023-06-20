@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.almighty_push }}
+          ref: "main"
+          fetch-depth: 0
       - name: Replace File
         run: |
           cp format.md README.md
@@ -26,7 +30,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Concatenated README" -a --allow-empty
-      - name: Push Changes
-        env:
-          PAT_TOKEN: ${{ secrets.almighty_push }}
-        uses: ad-m/github-push-action@master
+          git push
