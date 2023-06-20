@@ -8,6 +8,7 @@ on:
 
 jobs:
   update-readme:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -27,11 +28,7 @@ jobs:
         run: python markdown-insertion.py
       - name: Commit Changes
         run: |
-          if [[ "$(git log -1 --pretty=format:'%ae')" != "action@github.com" ]]; then
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git commit -m "Concatenated README" -a --allow-empty
             git push
-          else
-            echo "Skipping commit and push steps since the commit is made by GitHub Actions."
-          fi
