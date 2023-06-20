@@ -27,4 +27,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Concatenated README" -a --allow-empty
       - name: Push Changes
+        env:
+          PAT_TOKEN: ${{ secrets.almighty_push }}
         uses: ad-m/github-push-action@master
