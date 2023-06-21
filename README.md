@@ -18,9 +18,10 @@
       2. What are the practices in terms of commit messages (consider only commits on the main branch)?
 </summary>
 
-
+random text for the purpose of fun times
 
 </details>
+
 
 <!-- REPLACEMENT src="repo1/q3.md" -->
 <details>
